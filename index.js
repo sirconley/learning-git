@@ -1,2 +1,2 @@
 console.log("hello, welcome to my first git");
-"okay, thank you"
+"a new line was added and i remved the former"
